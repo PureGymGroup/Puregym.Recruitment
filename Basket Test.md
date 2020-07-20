@@ -112,6 +112,18 @@ No vouchers applied
 
 ---
 
+### Basket 7:
+
+1 Gloves @ £25.00
+
+**Sub Total: £25.00**
+
+1 x £30.00 Gift Voucher XXX-XXX applied
+
+**Total: £0.00**
+
+---
+
 ## Deliverables
 You are required to build code that represents a basket along with a set of tests. This can be a console app, a class library or Rest API. You should not create a mobile app, website or UI for this application. There is no need to create a database for this application.
 
