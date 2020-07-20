@@ -5,7 +5,7 @@ Thank you for looking at PureGym's Recruitment repo. This repo contains the exer
 If you are looking for more information on our open vacancies, tech stack or wish to apply please see our [StackOverflow Profile](https://stackoverflow.com/jobs/companies/puregym).
 
 ## Our Recruitment Process
-Our interview process consists of number of stages. After the initial CV review we arrange a 30 minute call to talk about the role and for us to learn more about your skills.
+Our interview process consists of a number of stages. After the initial CV review we arrange a 30 minute call to talk about the role and for us to learn more about your skills.
 
 For most roles the next stage is a [coding exercise](BasketTest.md) with a set of scenarios. This is a chance for you to demonstrate design patterns, problem solving and testing to solve a real-world problem.
 
