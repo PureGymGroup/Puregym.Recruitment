@@ -9,7 +9,7 @@ Our interview process consists of a number of stages. After the initial CV revie
 
 For most roles the next stage is a [coding exercise](BasketTest.md) with a set of scenarios. This is a chance for you to demonstrate design patterns, problem solving and testing to solve a real-world problem.
 
-Finally, there is an interview and a chance for you to come see our office, meet our developers and talk over your CV and approach to the coding exercise.
+Finally, there is an interview and a chance for you to see our office, meet our developers and talk over your CV and approach to the coding exercise.
 
 ## About PureGym
 You can expect to work in an agile and collaborative environment with a strong focus on quality, stability and innovation.
