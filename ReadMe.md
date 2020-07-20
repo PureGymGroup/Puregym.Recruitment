@@ -7,7 +7,7 @@ If you are looking for more information on our open vacancies, tech stack or wis
 ## Our Recruitment Process
 Our interview process consists of several stages. After the initial CV review we arrange a 30 minute call to talk about the role and for us to learn more about your skills.
 
-For most roles the next stage is a [coding exercise](BasketTest.md) with a set of scenarios and ask you to send us create your solution to the problem. This is a chance for you to demonstrate design patterns, testing code to solve a real-world problem.
+For most roles the next stage is a [coding exercise](BasketTest.md) with a set of scenarios. This is a chance for you to demonstrate design patterns, testing code to solve a real-world problem.
 
 Finally, we have face to face interview for you to come see our office, meet our developers and talk over your CV and approach to the coding exercise.
 
