@@ -1,5 +1,16 @@
 # Shopping Basket Discount Task
 
+## What is the Task?
+The coding exercise is the second stage of our technical interview process. We want it to be as real world as possible so research and use the resources necessary. 
+
+Feel free to take as long as you feel you need to on this task, we understand that not everyone has a huge amount of time while others feel they want to spend longer to demonstrate everything they can. 
+
+Note your decisions, constraints and thoughts in a readme to help us understand your process.
+
+## Why do we ask for the Task?
+
+The coding exercise allows us to view your work in the most realistic way we can giving a chance for you to show us your problem solving skills. There are many approaches to the task and being able to talk over the approach, options and considerations in the final stage of our interview.
+
 ## Requirements
 The company issues two types of voucher for customers to gain discounts on shopping baskets. 
 
@@ -111,6 +122,5 @@ When submitting the task please also provide an estimate of how long you feel yo
 You can submit the test in the following ways:
 - From a shared link such as drop box, one drive, google drive etc. (preferred)
 - Shared via a public git repository
-- Directly emailed
 
 **When sharing via email or a shared link** please zip up your solution with the following name format: [YourNameHere] - BasketTest
