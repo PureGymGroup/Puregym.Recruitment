@@ -1,6 +1,6 @@
 # PureGym Software Engineer Recruitment
 
-Thank you for looking at PureGym's Recruitment repo. This repo contains the exercises used our recruitment process.
+Thank you for looking at PureGym's Recruitment repo. This repo contains the exercises used in our recruitment process.
 
 If you are looking for more information on our open vacancies, tech stack or wish to apply please see our [StackOverflow Profile](https://stackoverflow.com/jobs/companies/puregym).
 
