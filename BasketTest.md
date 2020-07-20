@@ -1,5 +1,16 @@
 # Shopping Basket Discount Task
 
+## What is the Task?
+The coding exercise is the second stage of our technical interview process. We want it to be as real world as possible so research and use the resources necessary. 
+
+Feel free to take as long as you feel you need to on this task, we understand that not everyone has a huge amount of time while others feel they want to spend longer to demonstrate everything they can. 
+
+Note your decisions, constraints and thoughts in a readme to help us understand your process.
+
+## Why do we ask for the Task?
+
+The coding exercise allows us to view your work in the most realistic way we can, giving you a chance to show us your problem solving skills. There are many approaches to the task. Being able to talk over the approach, options and considerations in the final stage of our interview helps us understand your thought process.
+
 ## Requirements
 The company issues two types of voucher for customers to gain discounts on shopping baskets. 
 
@@ -7,12 +18,12 @@ Gift Voucher:
 - Can be redeemed against the value of a basket. 
 - Multiple gift vouchers can be applied to a basket.
 - Gift vouchers can only be redeemed against non gift voucher products.
-- The purchase of gift vouchers does not contribute to the discountable basket total.
+- The purchase of gift voucher does not contribute to the discountable basket total.
 
 Offer vouchers:
-- Requires a threshold that needs to be matched or exceeded before a discount can be applied e.g. £5.00 off of baskets totalling £50 or more
+- Requires a threshold that needs to be exceeded before a discount can be applied e.g. £5.00 off of baskets over £50.
 - Only a single offer voucher can be applied to a basket.
-- Maybe applicable to only a subset of products.
+- Can be applicable to only a subset of products.
 
 Offer and Gift vouchers can be used in conjunction. If a customer applies an offer voucher to a basket that will not satisfy the threshold or a customer removes item/changes an items quantity resulting in a voucher not being valid then a message will need to be displayed to the customer.
 
@@ -108,7 +119,7 @@ No vouchers applied
 
 **Total: £55.00**
 
-**Message:** “You have not reached the spend threshold for Gift Voucher YYY-YYY. Spend another £25.00 to receive £5.00 discount from your basket total.”
+**Message:** “You have not reached the spend threshold for Gift Voucher YYY-YYY. Spend another £25.01 to receive £5.00 discount from your basket total.”
 
 ---
 
@@ -134,6 +145,5 @@ When submitting the task please also provide an estimate of how long you feel yo
 You can submit the test in the following ways:
 - From a shared link such as drop box, one drive, google drive etc. (preferred)
 - Shared via a public git repository
-- Directly emailed
 
 **When sharing via email or a shared link** please zip up your solution with the following name format: [YourNameHere] - BasketTest
