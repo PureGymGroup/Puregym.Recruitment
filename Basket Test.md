@@ -7,12 +7,12 @@ Gift Voucher:
 - Can be redeemed against the value of a basket. 
 - Multiple gift vouchers can be applied to a basket.
 - Gift vouchers can only be redeemed against non gift voucher products.
-- The purchase of gift vouchers does not contribute to the discountable basket total.
+- The purchase of gift voucher does not contribute to the discountable basket total.
 
 Offer vouchers:
-- Requires a threshold that needs to be matched or exceeded before a discount can be applied e.g. £5.00 off of baskets totalling £50 or more
+- Requires a threshold that needs to be exceeded before a discount can be applied e.g. £5.00 off of baskets over £50.
 - Only a single offer voucher can be applied to a basket.
-- Maybe applicable to only a subset of products.
+- Can be applicable to only a subset of products.
 
 Offer and Gift vouchers can be used in conjunction. If a customer applies an offer voucher to a basket that will not satisfy the threshold or a customer removes item/changes an items quantity resulting in a voucher not being valid then a message will need to be displayed to the customer.
 
@@ -108,7 +108,7 @@ No vouchers applied
 
 **Total: £55.00**
 
-**Message:** “You have not reached the spend threshold for Gift Voucher YYY-YYY. Spend another £25.00 to receive £5.00 discount from your basket total.”
+**Message:** “You have not reached the spend threshold for Gift Voucher YYY-YYY. Spend another £25.01 to receive £5.00 discount from your basket total.”
 
 ---
 
