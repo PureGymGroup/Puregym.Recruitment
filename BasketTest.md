@@ -143,7 +143,7 @@ Feel free to take as long as you feel you need to on this task, we understand th
 When submitting the task please also provide an estimate of how long you feel you spent on the work so we can put the work into context.
 
 You can submit the test in the following ways:
-- From a shared link such as drop box, one drive, google drive etc. (preferred)
-- Shared via a public git repository
+- From a shared link such as drop box, one drive, google drive etc. 
+- Shared via a public git repository 
 
 **When sharing via email or a shared link** please zip up your solution with the following name format: [YourNameHere] - BasketTest
