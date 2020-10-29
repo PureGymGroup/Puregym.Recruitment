@@ -10,7 +10,7 @@ Please use one of the following tools to create your infrastructure:
 - Terraform
 - Az CLI / PowerShell
 
-## Deliverables
+## Requirements
 
 Please create the following environment:
 
@@ -28,9 +28,18 @@ Please create the following environment:
 
 Try to hard code resources as little as possible. Provide enough flexibility that the example could be rerun to create different environments (Alpha, Beta, etc).
 
-## Expectations
+## Deliverables
 
 - Clear and readable code with a sensible file structure.
 - A simple way to provide credentials to run the infrastructure into our Azure environment
 - No software applications need to be deployed to these app services
 
+Feel free to take as long as you feel you need to on this task, we understand that not everyone has a huge amount of time while others feel they want to spend longer to demonstrate everything they can.  We do however ask the task is ideally returned within 7 days of being sent.
+
+When submitting the task please also provide an estimate of how long you feel you spent on the work so we can put the work into context.
+
+You can submit the test in the following ways:
+- From a shared link such as drop box, one drive, google drive etc. 
+- Shared via a public git repository 
+
+**When sharing via email or a shared link** please zip up your solution with the following name format: [YourNameHere] - BasketTest
