@@ -26,36 +26,55 @@ Write an application with a Xamarin UI that represents a basket and has the abil
 ---
 
 ### Basket 1:
+
 1 Jumper @ £54.65
+
 1 Head Light @ £3.50
+
 **Sub Total: £58.15**
+
 No vouchers applied
+
 **Total: £58.15**
 
 ---
 
 ### Basket 2:
+
 1 Hat @ £10.50
+
 1 Jumper @ £54.65
+
 **Sub Total: £65.15**
+
 1 x £5.00 Gift Voucher applied
+
 **Total: £60.15**
 
 ---
 
 ### Basket 3:
+
 1 Hat @ £10.50
+
 **Sub Total: £10.50**
+
 1 x £50.00 Gift Voucher applied
+
 **Total: £0.00**
 
 ---
 
 ### Basket 4:
+
 1 Hat @ £25.00
+
 1 Jumper @ £10.00
+
 **Sub Total: £35.00**
+
 1 x £50.00 Gift Voucher applied
+
 **Total: £10.00**
 
 ---
