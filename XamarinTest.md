@@ -12,7 +12,7 @@ Note your decisions, constraints and thoughts in a readme to help us understand 
 The coding exercise allows us to view your work in the most realistic way we can, giving you a chance to show us your problem solving skills. There are many approaches to the task. Being able to talk over the approach, options and considerations in the final stage of our interview helps us understand your thought process.
 
 ## Requirements
-The company issues one type of voucher for customers to gain discounts on shopping baskets. 
+The company issues gift vouchers for customers to gain discounts on shopping baskets. 
 
 Gift Voucher:
 - Can be redeemed against the value of a basket. 
