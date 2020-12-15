@@ -69,7 +69,7 @@ No vouchers applied
 
 1 Hat @ £25.00
 
-1 Jumper @ £10.00
+1 Gift Voucher @ £10.00
 
 **Sub Total: £35.00**
 
