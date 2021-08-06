@@ -37,11 +37,13 @@ Write an application that represents a basket and has the ability to handle the 
 
 1 Head Light (Head Gear Category of Product)  @ £3.50
 
-**Sub Total: £58.15**
+1 £10 Gift Voucher @ £10.00
+
+**Sub Total: £68.15**
 
 No vouchers applied
 
-**Total: £58.15**
+**Total: £68.15**
 
 ---
 
@@ -83,11 +85,13 @@ No vouchers applied
 
 1 Head Light (Head Gear Category of Product)  @ £3.50
 
-**Sub Total: £54.50**
+1 £10 Gift Voucher @ £10.00
+
+**Sub Total: £64.50**
 
 1 x £5.00 off Head Gear in baskets over £50.00 Offer Voucher YYY-YYY applied
 
-**Total: £51.00**
+**Total: £61.00**
 
 ---
 
