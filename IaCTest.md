@@ -1,14 +1,10 @@
-# PureGym IaC test
+# PureGym Terraform IaC test
 
 ## Objective
 
 To create simple set of infrastructure resources in azure using Infrastructure as Code techniques.
 
-Please use one of the following tools to create your infrastructure:
-
-- Ansible
-- Terraform
-- Az CLI / PowerShell
+Please use Terraform to create your infrastructure.
 
 ## Requirements
 
